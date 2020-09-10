@@ -20,6 +20,8 @@ categories:
 * Fixed some issues of dual sim users
 * Upstreamed kernel to 4.4.235
 
+---
+
 ## Anything else you looking for?
 * Android 11 just got released for Pixel phones. So
 ,we shall be preparing for it pretty soon and will notify you all as soon we have something good.On that note, stop spamming for ETA. 
