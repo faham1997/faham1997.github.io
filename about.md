@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+I am a 23 years old Computer Sciend and Engineering Student. I am from Bangladesh. I am very passionate about Linux and Android. I love to watch anime and play casual games when i have free time.
